@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: '',
-  secretOrKey: ''
+  mongoURI: 'bump',
+  secretOrKey: 'bump'
 };
